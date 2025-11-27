@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Schimbați părintele la MaterialComponents sau Material3 -->
+    <style name="Theme.ListaDeFructe" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Sau Theme.Material3.DayNight.NoActionBar dacă folosiți Material 3 -->
+        <!-- ... restul stilurilor dvs. ... -->
+    </style>
+</resources>
