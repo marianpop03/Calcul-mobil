@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+     <string name="kotlin_co_routines_demo">Kotlin co-routines demo (1)</string>
+        <string name="button">Start</string>
+    </resources>
