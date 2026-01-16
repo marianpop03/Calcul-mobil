@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/messageContainer"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <TextView
+        android:id="@+id/tvMessageBody"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Salut!"
+        android:padding="12dp"
+        android:textSize="16sp"
+        android:textColor="#000000"
+        android:background="@android:drawable/dialog_holo_light_frame"
+        android:elevation="2dp"/>
+
+    <TextView
+        android:id="@+id/tvSenderName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="User"
+        android:textSize="10sp"
+        android:textColor="#757575"
+        android:layout_marginTop="2dp"/>
+
+</LinearLayout>
